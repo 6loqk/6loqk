@@ -41,9 +41,6 @@
 ## Social Networks
 
 <div align="center">
-  <a href="https://x.com/6loqk">
-    <img src="https://skillicons.dev/icons?i=twitter"/> 
-  </a>
   <a href="https://discord.com/users/1058988510457102478"> 
     <img src="https://skillicons.dev/icons?i=discord"/> 
   </a>
